@@ -50,3 +50,10 @@ git push -u origin main
 # 방법3 : 터미널에서 명령어 입력
 git add .
 git commit -m '테스트 파일들 추가'
+
+# 3. 커밋한 다음, GitHub로 전송 : 푸쉬(push)
+# 3가지 방법중 선택
+git push
+
+
+
